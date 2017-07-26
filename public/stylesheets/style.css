@@ -1,8 +1,19 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    background-color: lightblue;
+    border: 2px solid white;
+    height: 95vh;
 }
-
-a {
-  color: #00B7FF;
+.wrap {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+.title {
+    text-shadow: 1px 0 0 black;
+    letter-spacing: 1px;
+}
+h4 {
+    font-size: 1.2em;
+    width: 85%;
+    margin: 25px auto;
 }

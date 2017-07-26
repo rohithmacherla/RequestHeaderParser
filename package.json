@@ -2,6 +2,10 @@
   "name": "requestheaderparser",
   "version": "0.0.0",
   "private": true,
+  "engines": {
+    "node": "6.10.3",
+    "npm": "3.10.10"
+  },
   "scripts": {
     "start": "node ./bin/www"
   },
@@ -10,6 +14,7 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.3",
     "express": "~4.15.2",
+    "express-useragent": "^1.0.7",
     "jade": "~1.11.0",
     "morgan": "~1.8.1",
     "serve-favicon": "~2.4.2"
