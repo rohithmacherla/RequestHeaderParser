@@ -17,3 +17,7 @@ h4 {
     width: 85%;
     margin: 25px auto;
 }
+span {
+    color: magenta;
+    text-shadow: black 1px 0 0;
+}
